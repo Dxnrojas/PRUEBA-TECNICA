@@ -1,0 +1,19 @@
+[33mcommit e25ab63076ccdd94a404d6643f7811c3c9b3e76f[m[33m ([m[1;36mHEAD -> [m[1;32mtiagito[m[33m, [m[1;31morigin/tiago[m[33m, [m[1;31morigin/tiagito[m[33m, [m[1;32mtiago[m[33m)[m
+Author: SantiagoDLeon <santiago.bernal_de@uao.edu.co>
+Date:   Sat Jul 19 18:39:17 2025 -0500
+
+    otrapruebita
+
+[1mdiff --git a/index1.html b/index1.html[m
+[1mindex 898cf85..c8b2b4e 100644[m
+[1m--- a/index1.html[m
+[1m+++ b/index1.html[m
+[36m@@ -13,6 +13,6 @@[m
+         <input type="text">[m
+     </form>[m
+ [m
+[31m-    <p>papasito</p>[m
+[32m+[m[32m    <p>papasitoo</p>[m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
